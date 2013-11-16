@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>  
 <info>  
     <version>5.2.6</version>  
-    <url>http://master.dl.sourceforge.net/project/longtv/longtv5.2.6.apk</url>  
+    <url>https://github.com/appledragon/longtv/raw/master/download/longtv5.2.6.apk</url>  
     <description>
 ========== 5.2.6 ==========
 1) 升级ffmpeg到最新版本
@@ -11,7 +11,7 @@
 
 </description>
 <dbversion>10.05</dbversion>
-<dburl>http://master.dl.sourceforge.net/project/longtv/TVInfo.db</dburl>
+<dburl>https://github.com/appledragon/longtv/raw/master/download/TVInfo.db</dburl>
 <dbdescription>修复港台源</dbdescription>
 <notice>修复大量源</notice>
 </info>
