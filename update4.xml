@@ -1,2 +1,17 @@
-update4.xml
-烦烦烦
+<?xml version="1.0" encoding="utf-8"?>  
+<info>  
+    <version>5.2.6</version>  
+    <url>http://master.dl.sourceforge.net/project/longtv/longtv5.2.6.apk</url>  
+    <description>
+========== 5.2.6 ==========
+1) 升级ffmpeg到最新版本
+2) 修复华为秘盒软解闪退的问题
+3) 修改后退键的行为，按一下为清场，如不需清场则显示退出
+4) 修正一些低概率闪退的问题
+
+</description>
+<dbversion>10.05</dbversion>
+<dburl>http://master.dl.sourceforge.net/project/longtv/TVInfo.db</dburl>
+<dbdescription>修复港台源</dbdescription>
+<notice>修复大量源</notice>
+</info>
